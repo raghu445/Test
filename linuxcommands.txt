@@ -1,0 +1,28 @@
+echo $home
+touch--creating for files& time straping
+ls--list of files present in current directory
+cat filename content of the file and updting the time straping of file
+cat > filename either will a create the new file or override the file
+cat >> append the data of  file
+mkdir--for creating the directory
+mkdir -p --to create chain of directories
+rmdir directory name it will delete the directory 
+and if you have sub direcctories in directory willing to date use 
+rm -r d1 (-r)recurse
+rm filename*--it will delete all the files which has same name
+cd---change of directory
+cd .--present directory
+cd ..moves to parent directory of current directory
+irrespective of where you are present takes to home directory of current user cd
+cd ~ directly takes to home directly
+ls -l---longlisting of the file
+touch never ovwrwrites the file if the file is there it will just change the time
+stramp of the file
+cat overrides the content of the file if the file
+.filename---to create a hidden file
+ls -a---all the files visible files which are hidden
+ls -la----both hidden and longlisting files
+ls -lh------to see the clear usage of file
+ls -lt ---to see the latest time stramp of file
+ls -ltr ---to reverse the time stramp of file
+man ls ---to see documentation
